@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">사다리 타기</string>
+    <string name="hint_people_count">인원수를 입력해주세요 (2~10인)</string>
+    <string name="btn_start_ladder">사다리 시작</string>
+    <string name="err_people_range">2~10 사이 숫자를 입력하세요</string>
+    <string name="dialog_title_result">사다리 결과</string>
+    <string name="dialog_btn_ok">확인</string>
+</resources>
